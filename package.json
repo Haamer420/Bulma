@@ -1,0 +1,13 @@
+{
+  "name": "my-message-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "bulma": "^1.0.0"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "devDependencies": {
+    "@vue/cli": "^5.0.8"
+  }
+}
